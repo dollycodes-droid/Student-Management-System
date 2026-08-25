@@ -15,6 +15,6 @@ A simple command-line student record management system built with C as part of m
 - Load records from a file
 - Pass/fail status based on marks
 
-## Technologies
+## Languages
 
 - C
